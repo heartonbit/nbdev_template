@@ -13,6 +13,6 @@ entries:
       title: say_hello
       url: /core
     output: web
-    title: hello_nbdev
+    title: nbdev_template
   output: web
   title: Sidebar
